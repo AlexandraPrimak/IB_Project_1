@@ -26,8 +26,14 @@ ggplot2, ggthemes, cowplot, patchwork;
 
 ontologyIndex, ontologySimilarity.
 
-# To run the code you only need the RStudio
+To run the code you only need the RStudio
+
+## Files in repository:
+"hpo_to_tissue.xlsx" contains the mapping of umbrella HPO term to tissue, done myself
+"TS_scores_analysis" contains R code of analysis at protein level
+"rna_analysys.R" contains R code of analysis at RNA level
 
 ## References:
 basic article used: https://linkinghub.elsevier.com/retrieve/pii/S0092867420310783
+
 HPO dataset: https://hpo.jax.org/app/download/annotation
